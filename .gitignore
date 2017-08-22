@@ -165,3 +165,4 @@ ENV/
 datasets/
 .ipynb_checkpoints/
 *venv/
+.idea/
